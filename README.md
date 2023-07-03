@@ -1,15 +1,21 @@
-### Oii! Eu sou Bianka Cristina
+<h1 align="center"> Oi 👋, sou Bianka Cristina</h1>
+<p align="left"> <img align="left" height="350em" width="450em" alt="biiankac" src="https://github-readme-stats.vercel.app/api?username=biiankac&show_icons=true&theme=dracula&rank_icon=github"> </p> 
+ 
+<div style="display: inline_block"><br> 
+<h3 align="left">Sobre mim:</h3> 
+<p align="left">
+  
+  - 💻 **Atualmente estou aprendendo:** Análise de dados na SoulCode Academy.
+  
+  - 📄 **Saiba sobre minhas experiências:** [LinkedIn](https://www.linkedin.com/in/biiankac/)
+  
+  - 🦋 **Mais sobre mim:** Seguidora de Jesus, casada e apaixonada pela minha família, amo aprender e ler sobre os mais variados assuntos.
+  
+    </p>
+    
+##
 
-<div>
-  <img align="center" alt="Rafa-React" height="180" width="400" 
-  src="https://github-readme-stats.vercel.app/api?username=biiankac&show_icons=true&theme=dracula&rank_icon=github">
-  </div>
-<div style="display: inline_block"><br>
-  
-  
-<img align="center" alt="Rafa-Python" height="30" width="40"     
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" img alt="python" width="40" height="40"/> </a>
 
 ##
  
