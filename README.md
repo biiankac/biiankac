@@ -5,9 +5,10 @@
 <h3 align="left">Sobre mim:</h3> 
 <p align="left">
   
-  - 💻 **Atualmente estou aprendendo:** Análise de dados na SoulCode Academy.
+  - 💻 **Analista de dados em desenvolvimento constante**
   
   - 📄 **Saiba sobre minhas experiências:** [LinkedIn](https://www.linkedin.com/in/biiankac/)
+  - 🔎 **Minha visão sobre os dados:** [Instagram](https://instagram.com/biadatasolutions)
   
   - 🦋 **Mais sobre mim:** Seguidora de Jesus, casada e apaixonada pela minha família, amo aprender e ler sobre os mais variados assuntos.
   
